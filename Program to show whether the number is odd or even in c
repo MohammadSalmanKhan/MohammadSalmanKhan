@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+Void main()
+{
+int a;
+Printf("enter number\n");
+if(a%2==0)
+printf(" Number is even\n");
+esle
+printf(" Number is odd\n");
+getch();
+}
