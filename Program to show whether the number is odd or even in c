@@ -4,6 +4,7 @@ Void main()
 {
 int a;
 Printf("enter number\n");
+scanf("%d",&a);
 if(a%2==0)
 printf(" Number is even\n");
 esle
